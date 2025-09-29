@@ -44,7 +44,7 @@ Colleges collect feedback after events, but it often goes unused. This project d
 ---
 
 ## 🚀 How to Run
-1. Open [Google Colab](https://colab.research.google.com/)  
+1. Open [Google Colab]https://colab.research.google.com/drive/1xNtCFOXDdcAdihoemK5KlIEpQ2SdLLxM#scrollTo=U3y2ehmUgyd5  
 2. Upload the notebook `College_Event_Feedback_Analysis.ipynb`  
 3. Upload your **Google Form CSV** when prompted  
 4. Run all cells to see results  
