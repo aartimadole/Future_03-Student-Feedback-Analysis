@@ -39,7 +39,7 @@ Colleges collect feedback after events, but it often goes unused. This project d
 
 ## 📂 Dataset
 - Export survey responses from **Google Forms** as CSV  
-- Or use the included `sample_feedback.csv` (dummy dataset with events, ratings, and comments)  
+- Or use the included `students_feedback.csv` (dummy dataset with events, ratings, and comments)  
 
 ---
 
